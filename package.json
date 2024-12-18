@@ -2,7 +2,7 @@
   "name": "sibyl-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sibyl.ai",
+  "homepage": "https://meet-sibyl.com",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "cra-template-typescript": "1.2.0",
