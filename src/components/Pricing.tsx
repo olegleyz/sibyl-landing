@@ -68,7 +68,7 @@ const Pricing: React.FC = () => {
             </ul>
             <div className="mt-8">
               <a
-                href="https://t.me/SibylCompanionBot"
+                href="https://t.me/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-primary text-center rounded-lg py-3 px-4 text-white font-medium hover:bg-primary-dark transition-colors duration-200"

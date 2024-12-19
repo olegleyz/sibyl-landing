@@ -38,7 +38,7 @@ const Header: React.FC = () => {
 
           <div className="flex items-center space-x-4">
             <a
-              href="https://t.me/SibylCompanionBot"
+              href="https://t.me/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-primary hover:bg-primary-dark transition-colors duration-200"

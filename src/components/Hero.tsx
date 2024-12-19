@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center mt-8"
           >
             <a
-              href="https://t.me/SibylCompanionBot"
+              href="https://t.me/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-8 py-3 text-base font-medium rounded-lg text-white bg-primary hover:bg-primary-dark transition-colors duration-200"

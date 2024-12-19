@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
             <ul className="mt-4 space-y-4">
               <li>
                 <a
-                  href="https://t.me/SibylCompanionBot"
+                  href="https://t.me/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-base text-gray-600 hover:text-primary"
